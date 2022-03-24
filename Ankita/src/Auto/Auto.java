@@ -4,7 +4,7 @@ public class Auto
 {
 	public static void main(String args[])	
 	{
-		int no=15;
+		int no=10;
 		
 		for(int i=1;i<=no;i=i+2)
 		{
